@@ -1,8 +1,7 @@
-[![MasterHead](https://tenor.com/en-GB/view/hacker-python-coding-glitch-gif-24209207)]
+...........................![MasterHead](https://64.media.tumblr.com/375cc3a9ae4ce446ef007f23bd97fbd0/tumblr_pf7llcz9DD1sgm6puo1_640.gifv)........................
 <h1 align="center">Hi 👋, I'm Sahan Dassanayake</h1>
-<h3 align="center">A passionate Cyber Security Student</h3>
-img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."
-
+<h3 align="center">Passionate About Cyber Security</h3>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranger607&label=Profile%20views&color=0e75b6&style=flat" alt="ranger607" /> </p>
 
 <p align="left"> <a href="https://twitter.com/dassanayasahan" target="blank"><img src="https://img.shields.io/twitter/follow/dassanayasahan?logo=twitter&style=for-the-badge" alt="dassanayasahan" /></a> </p>
@@ -13,7 +12,7 @@ img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1
 
 - 📫 How to reach me **rashmikasahan22@gmail.com**
 
-- ⚡ Fun fact **I like acting, Moderating also kinda wird person**
+- ⚡ Fun fact **Anyone can identify me because of my weird laugh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
