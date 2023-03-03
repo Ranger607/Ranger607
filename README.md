@@ -1,4 +1,4 @@
-...........................![MasterHead](https://64.media.tumblr.com/375cc3a9ae4ce446ef007f23bd97fbd0/tumblr_pf7llcz9DD1sgm6puo1_640.gifv)........................
+![MasterHead](https://media.tenor.com/-SV9TjUGabMAAAAC/hacker-python.gif)
 <h1 align="center">Hi 👋, I'm Sahan Dassanayake</h1>
 <h3 align="center">Passionate About Cyber Security</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
